@@ -1,5 +1,7 @@
 ### Hi there im Eve, its nice to meet ya!👋
-im currently enrolled in Holberton tulsa to learn how to be a full-stack developer!
+
+### About Me
+-
 <!--
 **EveBaker/EveBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
