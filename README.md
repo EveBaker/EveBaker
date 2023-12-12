@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eve+Baker!;+I'ts+Nice+To+Meet+You!;+I+Hope+You+Have+A+Good+Day!" />
 </h1>
 
-<h3 align="center">A passionate soon to be, front-end developer from Oklahoma</h3>
+<h3 align="center">A soon to be, front-end developer from Oklahoma</h3>
 <div align="center">
  
      I’m currently enrolled in Holberton to become a front-end developer 
