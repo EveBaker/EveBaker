@@ -27,12 +27,13 @@
 <h2 align="center">Languages and Frameworks ive used</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git"/>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,c,flask,bash,python,sass"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,mysql,git" /><br>
 </div>
 
 <br/>
 <hr/>
 </hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EveBaker&show_icons=true&locale=en&layout=compact" alt="EveBaker" /></p>
+
 
