@@ -6,7 +6,7 @@
 <h3 align="center">A soon to be, front-end developer from Oklahoma</h3>
 <div align="center">
  
-          I’m currently enrolled in Holberton to become a front-end developer 
+          I’m currently enrolled in Atlas to become a front-end developer 
  
         I’m currently learning Css, Html, Bootstrap, docker and many more languages!
         
