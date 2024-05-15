@@ -27,7 +27,7 @@
 <h2 align="center">Languages and Frameworks ive used</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,c,flask,bash,python,sass,react,"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,c,flask,bash,python,sass,react"/>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,mysql,nosql,git" /><br>
 </div>
 
